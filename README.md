@@ -52,7 +52,8 @@ overcome the limitations of white-light endoscopy in diagnosing atrophic gastrit
 
 ### Approach
 
-a DL approach
+* a DL approach
+* two datasets: 
 
 
 
