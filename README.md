@@ -46,7 +46,15 @@ seperate / together training
 
 ## 7. Original paper OUTLINE
 
-### 
+### Research target
+
+overcome the limitations of white-light endoscopy in diagnosing atrophic gastritis;
+
+### Approach
+
+a DL approach
+
+
 
 ## 8. 3 more other papers
 
