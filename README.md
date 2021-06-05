@@ -44,6 +44,8 @@ seperate / together training
 
 ## 6. Data visualization ?
 
+
+
 ## 7. Original paper OUTLINE
 
 ### Research target
