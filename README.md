@@ -65,6 +65,8 @@ overcome the limitations of white-light endoscopy in diagnosing atrophic gastrit
 
 ### c\)
 
+## Reinforcement Learning
+
 ## 9. set Regular email alarm
 
 ## 10. To decide in the meeting
