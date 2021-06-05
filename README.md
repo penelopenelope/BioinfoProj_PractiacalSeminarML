@@ -36,7 +36,7 @@ Teams file
 
 ### a\) original color img
 
-### b\) grayscale img
+### b\) grayscale img? heat map?
 
 seperate / together training
 
@@ -67,6 +67,8 @@ accuracy 0.942
 
 Transfer Learning - DenseNet
 
+code available 
+
 link: [https://www.dldjournalonline.com/article/S1590-8658\(20\)30003-7/fulltext](https://www.dldjournalonline.com/article/S1590-8658%2820%2930003-7/fulltext)
 
 ### b\) Expert-level classification of gastritis by endoscopy using deeplearning: a multicenter diagnostic trial
@@ -81,11 +83,17 @@ link: chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/[https://www.researchg
 
 ### c\) Application of artificial intelligence using a convolutional neural network for detecting gastric cancer in endoscopic images
 
-
-
-
-
 SSD \(Single Shot Multibox Detector\) - 16 layers - Caffee deep learning framework
+
+cancer lesion - much more obvious than atrophic gastritic
+
+link: chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/[https://link.springer.com/content/pdf/10.1007/s10120-018-0793-2.pdf](https://link.springer.com/content/pdf/10.1007/s10120-018-0793-2.pdf)
+
+### d\) Application of Convolutional Neural Networks in the Diagnosis of Helicobacter pyloriInfection Based on Endoscopic Images
+
+GoogleNet
+
+link: [https://reader.elsevier.com/reader/sd/pii/S2352396417304127?token=F6E2BE8C788F3C5D2C4938BD7F9A0C942C518158256FD43B4F46BE673243AEFB0DC291790A161C1F47973E87ED7E4276&originRegion=eu-west-1&originCreation=20210605172715](https://reader.elsevier.com/reader/sd/pii/S2352396417304127?token=F6E2BE8C788F3C5D2C4938BD7F9A0C942C518158256FD43B4F46BE673243AEFB0DC291790A161C1F47973E87ED7E4276&originRegion=eu-west-1&originCreation=20210605172715)
 
 ## Reinforcement Learning
 
