@@ -46,7 +46,15 @@ seperate / together training
 
 ## 7. Original paper OUTLINE
 
+### 
+
 ## 8. 3 more other papers
+
+### a\)
+
+### b\)
+
+### c\)
 
 ## 9. set Regular email alarm
 
