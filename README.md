@@ -42,7 +42,7 @@ seperate / together training
 
 ### c\) scaling, mirroring, rotation \(library!!!\)
 
-## 6. Data visualization
+## 6. Data visualization ?
 
 ## 7. Original paper OUTLINE
 
@@ -52,7 +52,13 @@ seperate / together training
 
 ## 10. To decide in the meeting
 
-### 1\) Presentation slides
+### 1\) Solutions
+
+only one, but should have an alternative model
+
+training data schemes \(original, greyscale, original + greyscale\)
+
+### 2\) Presentation slides
 
 #### who takes care of which part - Due on next Monday
 
