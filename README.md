@@ -10,7 +10,7 @@ Teams file
 
 ## 2. VPN
 
-## 3. Obvious differences between ab- and normal imgs
+## 3. Obvious differences between ab- and normal imgs - atrophic gastritis gastroscopy image features 
 
 ### ①The submucosal blood vessels are visible; 
 
@@ -18,17 +18,29 @@ Teams file
 
 ### ③The color of the gastric mucosa becomes light; 
 
-### ④When atrophic gastritis is accompanied by excessive glandular neck hyperplasia or intestinal epithelial metaplasia, the mucosal surface is rough and uneven, granular or granular. Nodules, sometimes the formation of pseudopolyps can be seen, and the features of submucosal blood vessels are often hidden; 
+### ④Atrophic gastritis may be accompanied by chronic superficial gastritis. Manifestations, such as hyperemia, attached mucus, and increased reflection;
 
-### ⑤ Atrophic mucosa is more fragile, easy to bleed, and may have erosions; 
+### ⑤Atrophic mucosa is more fragile, easy to bleed, and may have erosions; 
 
-### ⑥ Atrophic gastritis may be accompanied by chronic superficial gastritis. Manifestations, such as hyperemia, attached mucus, and increased reflection.
+### ⑥When atrophic gastritis is accompanied by excessive glandular neck hyperplasia or intestinal epithelial metaplasia, the mucosal surface is rough and uneven, granular or granular. Nodules, sometimes the formation of pseudopolyps can be seen, and the features of submucosal blood vessels are often hidden; 
 
-①黏膜下血管透见；②黏膜皱襞细小甚至消失；③胃黏膜颜色变淡；④当萎缩性胃炎伴有腺体颈部过度增生或肠上皮化生时，黏膜表面粗糙不平，呈颗粒状或结节状，有时可见假息肉形成，而黏膜下血管显露的特征常被掩盖；⑤萎缩黏膜脆性增加，易出血，并可有糜烂灶；⑥萎缩性胃炎可同时伴有慢性浅表性胃炎的表现，如充血红斑、附着黏液，以及反光增强等。
+①黏膜下血管透见；②黏膜皱襞细小甚至消失；③胃黏膜颜色变淡；④萎缩性胃炎可同时伴有慢性浅表性胃炎的表现，如充血红斑、附着黏液，以及反光增强等；⑤萎缩黏膜脆性增加，易出血，并可有糜烂灶；⑥当萎缩性胃炎伴有腺体颈部过度增生或肠上皮化生时，黏膜表面粗糙不平，呈颗粒状或结节状，有时可见假息肉形成，而黏膜下血管显露的特征常被掩盖。
 
 ## 4. DICOM img
 
+![Atrophic gastritis](.gitbook/assets/image.png)
+
+![Normal](.gitbook/assets/image%20%281%29.png)
+
 ## 5. Data augmentation
+
+### a\) original color img
+
+### b\) grayscale img
+
+seperate / together training
+
+### c\) scaling, mirroring, rotation \(library!!!\)
 
 ## 6. Data visualization
 
