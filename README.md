@@ -71,9 +71,21 @@ link: [https://www.dldjournalonline.com/article/S1590-8658\(20\)30003-7/fulltext
 
 ### b\) Expert-level classification of gastritis by endoscopy using deeplearning: a multicenter diagnostic trial
 
+8141 imgs in total, 4587 patients
+
+accuracy 0.888
+
+Transfer Learning - Unet++ for segmentation and Resnet-50 for classification
+
+link: chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/[https://www.researchgate.net/publication/351927296\_Expert-level\_classification\_of\_gastritis\_by\_endoscopy\_using\_deep\_learning\_a\_multicenter\_diagnostic\_trial/fulltext/60b0a01aa6fdcc647ee365d9/Expert-level-classification-of-gastritis-by-endoscopy-using-deep-learning-a-multicenter-diagnostic-trial.pdf?\_sg%5B0%5D=Bhk912xnmVUnjR9g4iyMf\_K\_nmJwfyNqpAbqhG1Xkl7OkllO3ltVnvwYGSSW3eyxirfDpUkDcBfXjARleVF8pg.GQXPr0QbQCyKHFoacAblMC0om4Z3Iini44KsaF4d2vSaR7YSI0osiZvhjshzRiZ0jcVCj67o4gPkHoCNiRRHLQ&\_sg%5B1%5D=p5SNGiS\_xPZ8tOQ-E-x\_q0ShTXE1N4\_KIk-jkYQsrPadFP1kc9kL6p7Fk87AneXNeILFVwFOpUdKAyTZ5T5sU7eRGwlW9JMeZz4\_nes5OqZc.GQXPr0QbQCyKHFoacAblMC0om4Z3Iini44KsaF4d2vSaR7YSI0osiZvhjshzRiZ0jcVCj67o4gPkHoCNiRRHLQ&\_sg%5B2%5D=n-8jJqA0VE23C4\_W7pV96bz-VRaXFvsJ6iOR\_ZbIOSQgB\_y\_R4yuSD8x73EauIjCJT0JPFBiD-imb7c.alE7eO7eQfNWSuo2ozuj7I76w4uYK-EldBNIqvQMDmf-bKeZDIUbwRGrv3pM6L\_a5iW3\_fv3eqrtI5-HIdF9Ng&\_iepl=](https://www.researchgate.net/publication/351927296_Expert-level_classification_of_gastritis_by_endoscopy_using_deep_learning_a_multicenter_diagnostic_trial/fulltext/60b0a01aa6fdcc647ee365d9/Expert-level-classification-of-gastritis-by-endoscopy-using-deep-learning-a-multicenter-diagnostic-trial.pdf?_sg%5B0%5D=Bhk912xnmVUnjR9g4iyMf_K_nmJwfyNqpAbqhG1Xkl7OkllO3ltVnvwYGSSW3eyxirfDpUkDcBfXjARleVF8pg.GQXPr0QbQCyKHFoacAblMC0om4Z3Iini44KsaF4d2vSaR7YSI0osiZvhjshzRiZ0jcVCj67o4gPkHoCNiRRHLQ&_sg%5B1%5D=p5SNGiS_xPZ8tOQ-E-x_q0ShTXE1N4_KIk-jkYQsrPadFP1kc9kL6p7Fk87AneXNeILFVwFOpUdKAyTZ5T5sU7eRGwlW9JMeZz4_nes5OqZc.GQXPr0QbQCyKHFoacAblMC0om4Z3Iini44KsaF4d2vSaR7YSI0osiZvhjshzRiZ0jcVCj67o4gPkHoCNiRRHLQ&_sg%5B2%5D=n-8jJqA0VE23C4_W7pV96bz-VRaXFvsJ6iOR_ZbIOSQgB_y_R4yuSD8x73EauIjCJT0JPFBiD-imb7c.alE7eO7eQfNWSuo2ozuj7I76w4uYK-EldBNIqvQMDmf-bKeZDIUbwRGrv3pM6L_a5iW3_fv3eqrtI5-HIdF9Ng&_iepl=)
+
+### c\) Application of artificial intelligence using a convolutional neural network for detecting gastric cancer in endoscopic images
 
 
-### c\)
+
+
+
+SSD \(Single Shot Multibox Detector\) - 16 layers - Caffee deep learning framework
 
 ## Reinforcement Learning
 
