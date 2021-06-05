@@ -59,13 +59,25 @@ overcome the limitations of white-light endoscopy in diagnosing atrophic gastrit
 
 ## 8. 3 more other papers
 
-### a\)
+### a\) Diagnosing chronic atrophic gastritis by gastroscopy using artificial intelligence
 
-### b\)
+5470 imgs in tutoal, 1699 patients, 3042 positive, 2428 negative
+
+accuracy 0.942
+
+Transfer Learning - DenseNet
+
+link: [https://www.dldjournalonline.com/article/S1590-8658\(20\)30003-7/fulltext](https://www.dldjournalonline.com/article/S1590-8658%2820%2930003-7/fulltext)
+
+### b\) Expert-level classification of gastritis by endoscopy using deeplearning: a multicenter diagnostic trial
+
+
 
 ### c\)
 
 ## Reinforcement Learning
+
+## Transfer Learning
 
 ## 9. set Regular email alarm
 
