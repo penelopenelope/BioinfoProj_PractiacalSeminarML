@@ -2,7 +2,11 @@
 
 ## 1. Research Problem - Atrophic Gastritis Diagnosis
 
+leading to a loss of [gastric glandular cells](https://en.wikipedia.org/wiki/Gastric_gland) and their eventual replacement by intestinal and fibrous tissues
 
+the diagnosis quality from the conventional white-light endoscopy is that
+
+so the desired situation is that we want to develop a 
 
 ## 2. Current Situation
 
