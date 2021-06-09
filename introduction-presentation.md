@@ -26,15 +26,17 @@ They selected several deep learning methods to compare their performance and tur
 
 ### Diagnosing chronic atrophic gastritis by gastroscopy using artificial intelligence​
 
-The second methods also used transfer learning on a rather sufficient data size, and their best performance model is DenseNet121, which can also tell the different degrees of the diseace development with high accuracy. at the end of their study, they also generate heat maps to tell which image regions makes the model decision.
+The second methods also used transfer learning on a rather sufficient data size, and their best performance model is DenseNet121, which can also tell the different degrees of the disease development with high accuracy. at the end of their study, they also generate heat maps to tell which image regions makes the model decision.
 
 ### 3\) Mu, G., Zhu, Y., Niu, Z., et al.​ 
 
 ### Expert-level classification of gastritis by endoscopy using deep learning: a multicenter diagnostic trial​
 
-
+the third example provides us how to tell different gastritic degrees and types using deep learning. they construct a layer-to-layer structure for different classification tasks based on UNet++ and ResNet, and it shows a great accuracy on detect the gastritis lesions. 
 
 ### 4\) Open Challenges
 
+As a conclusion of our literature review, we found some challenges still exist in this research topic. most literature can only execute focal detections on some regions like cardia, fundus and stomach angle, a more complete algorithm is needed in practical clinical application to detect the entire gastric mucosa.
 
+Further more, scientists also want to tell the different etiologies of atrophic gastritis from the endoscopy images, which also need more exploratioin. 
 
