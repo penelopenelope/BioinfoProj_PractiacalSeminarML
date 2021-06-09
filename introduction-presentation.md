@@ -10,13 +10,15 @@ so the desired situation is that we want to develop a
 
 ## 2. Current Situation
 
-Next, I 
+Aiming at this desired situation, what is the current situation of the research topic? There are some methods already really successful enough and helpful to give us some intructions. 
 
 ### 1\) Guimarães, P., Keller, A., Fehlmann, T., et al.​ 
 
 ###  Deep-learning based detection of gastric precancerous conditions
 
+the first methods is also an inspiration to our research project, which achieved a rather high accuracy even though the image data size is limited severely. 
 
+the first dataset is used mainly for model training and the second one is for model modification and testing. They selected several deep learning methods to 
 
 ### 2\) Zhang, Y., Li, F., Yuan, F., et al.​  
 
