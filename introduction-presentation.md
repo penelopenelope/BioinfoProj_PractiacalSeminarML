@@ -10,6 +10,8 @@ so the desired situation is that we want to develop a
 
 ## 2. Current Situation
 
+Next, I 
+
 ### 1\) Guimarães, P., Keller, A., Fehlmann, T., et al.​ 
 
 ###  Deep-learning based detection of gastric precancerous conditions
