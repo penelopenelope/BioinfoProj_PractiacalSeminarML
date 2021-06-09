@@ -18,7 +18,7 @@ Aiming at this desired situation, what is the current situation of the research 
 
 the first methods is also an inspiration to our research project, which achieved a rather high accuracy even though the image data size is limited severely. 
 
-the first dataset is used mainly for model training and the second one is for model modification and testing. They selected several deep learning methods to 
+the first dataset is used mainly for model training and the second one is for model modification and testing. Instead of training a model from scratch and it will take a really long time on training, they used transfer learning and  They selected several deep learning methods to 
 
 ### 2\) Zhang, Y., Li, F., Yuan, F., et al.​  
 
