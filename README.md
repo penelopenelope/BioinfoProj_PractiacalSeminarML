@@ -1,11 +1,12 @@
 # UdS_PractiacalML
 Study notes on Practical Semiar - Machine Learning.
 
-Including - 
+Including - \\
 Model generation codes
-Model evaluation codes 
+Model evaluation codes
+Model performance
 Final report
 
-Excluded - 
+Excluding - 
 Datasets
 Trained models
