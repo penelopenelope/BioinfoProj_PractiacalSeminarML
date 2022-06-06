@@ -7,6 +7,6 @@ Model evaluation codes
 Model performance  
 Final report  
 
-Excluding - 
-Datasets
-Trained models
+Excluding -  
+Datasets  
+Trained models  
