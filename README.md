@@ -1,5 +1,5 @@
 # UdS_PractiacalML
-Study notes on Practical Semiar - Machine Learning.
+Project implementation on Practical Semiar - Machine Learning UdS SS21.
 
 Including -   
 Model generation codes  
