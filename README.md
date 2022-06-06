@@ -1,2 +1,2 @@
 # UdS_PractiacalML
-Study notes on Practical semiar - Machine Learning
+Study notes on Practical Semiar - Machine Learning
