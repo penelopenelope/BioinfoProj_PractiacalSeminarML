@@ -1,4 +1,4 @@
-# UdS_PractiacalML
+# UdS_PracticalSeminarML
 Project implementation on Practical Semiar - Machine Learning UdS SS21.
 
 Including -   
